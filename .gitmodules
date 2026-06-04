@@ -4,3 +4,6 @@
 [submodule "random-mixed-local-search-TSP"]
 	path = random-mixed-local-search-TSP
 	url = https://github.com/LSG8/random-mixed-local-search-TSP.git
+[submodule "random-mixed-local-search-CVRP"]
+	path = random-mixed-local-search-CVRP
+	url = https://github.com/LSG8/random-mixed-local-search-CVRP.git
