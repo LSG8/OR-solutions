@@ -7,3 +7,6 @@
 [submodule "random-mixed-local-search-CVRP"]
 	path = random-mixed-local-search-CVRP
 	url = https://github.com/LSG8/random-mixed-local-search-CVRP.git
+[submodule "world-cup-football-fan-route"]
+	path = world-cup-football-fan-route
+	url = https://github.com/LSG8/world-cup-football-fan-route.git
